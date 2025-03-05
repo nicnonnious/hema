@@ -1,0 +1,14 @@
+# Flask secret key (generate a secure random key for production)
+SECRET_KEY=your-secret-key-here
+
+# Supabase credentials
+SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_KEY=your-supabase-anon-key
+
+# Application settings
+FLASK_APP=app.py
+FLASK_ENV=development
+DEBUG=True
+
+# Optional: Customize port
+# PORT=5000
